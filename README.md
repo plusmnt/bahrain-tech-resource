@@ -39,6 +39,7 @@ List of online services that can be used by developers in Bahrain.
 
 ### Rules and regulations
 - [Decrees related to the Information & eGovernment Authority](http://www.iga.gov.bh/en/category/decrees)
+- [Telecommunications Regulatory Authority](https://www.tra.org.bh/en/category/regulations)
 
 ## Known issues
 ### NTP Protocal (STC network)
