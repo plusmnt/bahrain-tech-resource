@@ -33,6 +33,7 @@ List of online services that can be used by developers in Bahrain.
 #### Geographic
 - [Bahrain map ](http://www.ma-investment.gov.bh/website/discover_bah/)
 - [Ministry of Education Open Data](https://www.moe.gov.bh/opendata.aspx?lan=en), note: the location point for some of the data is incorrect.
+- [Air Quality ](https://aqicn.org/api/): non commercial use
 
 #### Other
 - [Bahrain (COVID-19) statistics](https://github.com/plusmnt/bh-cv-api): a json interface for the [summary of cases table](https://www.moh.gov.bh/COVID19) in Bahrain Ministry of Health website.
