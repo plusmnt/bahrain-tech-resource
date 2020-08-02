@@ -37,6 +37,7 @@ List of online services that can be used by developers in Bahrain.
 
 #### Other
 - [Bahrain (COVID-19) statistics](https://github.com/plusmnt/bh-cv-api): a json interface for the [summary of cases table](https://www.moh.gov.bh/COVID19) in Bahrain Ministry of Health website.
+- [Google phone number validation](https://github.com/google/libphonenumber): Parsing, formatting, and validating phone numbers for all countries/regions of the world.
 
 ### Rules and regulations
 - [Decrees related to the Information & eGovernment Authority](http://www.iga.gov.bh/en/category/decrees)
