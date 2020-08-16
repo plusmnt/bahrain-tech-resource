@@ -44,6 +44,8 @@ List of online services that can be used by developers in Bahrain.
 - [Telecommunications Regulatory Authority](https://www.tra.org.bh/en/category/regulations)
 - [Renewable Energy National policies and regulations](http://www.sea.gov.bh/resources/)
     - [Net Metering Policy](http://www.sea.gov.bh/netmetering-3/)
+- [VAT Guidline](https://www.nbr.gov.bh/vat_guideline)
+    - [VAT Digital Economy Guide](https://s3-eu-west-1.amazonaws.com/nbrproduserdata/media/hOLhJKSh8QwUx0uUAcn9Ovhcv9H9L3SHfhrNb4YW.pdf)
 
 ## Known issues
 ### NTP Protocal (STC network)
