@@ -31,7 +31,7 @@ List of online services that can be used by developers in Bahrain.
 - [OpenWeather](https://openweathermap.org/api)
 
 #### Geographic
-- [Bahrain map ](http://www.ma-investment.gov.bh/website/discover_bah/)
+- [Bahrain map ](http://www.ma-investment.gov.bh/website/discover_bah/) *Blocked outside Bahrain*
 - [Ministry of Education Open Data](https://www.moe.gov.bh/opendata.aspx?lan=en), note: the location point for some of the data is incorrect.
 - [Air Quality ](https://aqicn.org/api/): non commercial use
 
